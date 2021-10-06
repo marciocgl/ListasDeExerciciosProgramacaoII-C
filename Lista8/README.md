@@ -1,4 +1,4 @@
-Exercícios – Conceitos Básicos da Linguagem C (Lista 8)
+# Exercícios – Conceitos Básicos da Linguagem C (Lista 8)
 
 21) Crie um programa para receber do usuário via teclado o nome de um arquivo
 texto e mostrar na tela o conteúdo deste arquivo e o número de linhas que ele tem. 
