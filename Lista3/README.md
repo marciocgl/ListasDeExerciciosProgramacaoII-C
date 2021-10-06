@@ -10,7 +10,7 @@ cidade: cachoeiro
 8) Escreva um programa para ler a sua cidade natal no arquivo cidade.txt. 
 Depois de gravar o nome da cidade, reabra o arquivo e imprima o seu conteúdo na tela.
 
-9)digite o nome: carla
+9) Digite o nome: carla
 
 nomecompleto.txt -> letras.txt -> c-1
 				  a-2
@@ -18,4 +18,4 @@ nomecompleto.txt -> letras.txt -> c-1
 				  l-1
 				  a-2
 
-10)Mesma coisa do 9 só que nao aceita repetição de palavras.
+10) Mesma coisa do 9 só que nao aceita repetição de palavras.
