@@ -16,5 +16,4 @@ Depois de gravar o nome da cidade, reabra o arquivo e imprima o seu conteúdo na
 				  r-1
 				  l-1
 				  a-2
-
 10) Mesma coisa do 9 só que nao aceita repetição de palavras.
