@@ -11,8 +11,7 @@ cidade: cachoeiro
 Depois de gravar o nome da cidade, reabra o arquivo e imprima o seu conteúdo na tela.
 
 9) Digite o nome: carla
-
-nomecompleto.txt -> letras.txt -> c-1
+ 	nomecompleto.txt -> letras.txt -> c-1
 				  a-2
 				  r-1
 				  l-1
